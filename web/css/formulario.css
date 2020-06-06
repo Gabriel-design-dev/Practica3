@@ -1,0 +1,15 @@
+  form{
+    padding: 50px 20px;
+	background-color: #381b1ba6;
+	margin: calc(25% + 100px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
+    }
+    .titulo{
+       text-align: center;
+       color: black;
+    }
+    body{
+        background-color: silver;
+    }
